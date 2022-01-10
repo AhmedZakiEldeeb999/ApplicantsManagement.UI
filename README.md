@@ -18,4 +18,10 @@ Asp.net MVC,HTML,Javascript,jQuery,HttpClient (For calling the restful api)
 
 ![image](https://user-images.githubusercontent.com/95050832/148788574-b3685595-042c-4a85-93f8-bb4b7a49d966.png)
 
+![image](https://user-images.githubusercontent.com/95050832/148788672-b7fd64fb-35da-4613-a14a-ea988b5cdd5c.png)
+
+
+![image](https://user-images.githubusercontent.com/95050832/148788746-eff78832-5730-44e0-a2cf-83cac010a07c.png)
+
+
 
