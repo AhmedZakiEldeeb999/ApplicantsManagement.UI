@@ -5,3 +5,4 @@ api setting can be changed from web.config file,
 <add key="APIBaseurl" value="https://localhost:44328/"/>
 Technologies that has been use at ApplicantsManagement.UI:
 ASP MVC,HTML,Javascript,jQuery,HttpClent (For calling the resful apis)
+S
