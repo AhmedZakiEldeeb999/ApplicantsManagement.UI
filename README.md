@@ -13,5 +13,5 @@
 
 
 -Technologies that has been used at ApplicantsManagement.UI:
-Asp.net MVC,HTML,Javascript,jQuery,HttpClent (For calling the restful api)
+Asp.net MVC,HTML,Javascript,jQuery,HttpClient (For calling the restful api)
 
