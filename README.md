@@ -6,5 +6,5 @@ api setting can be changed from web.config file,
 
 
 Technologies that has been use at ApplicantsManagement.UI:
-ASP MVC,HTML,Javascript,jQuery,HttpClent (For calling the resful apis)
+ASP MVC,HTML,Javascript,jQuery,HttpClent (For calling the restful api)
 
