@@ -1,5 +1,5 @@
 # ApplicantsManagement.UI
--ApplicantsManagement.UI using http client for calling the created api on ApplicantsManagement.backend
+-ApplicantsManagement.UI using http client for calling the created api on ApplicantsManagement.backend repository
 
 
 -You must run the ApplicantsManagement api project at the backend repository first
